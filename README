@@ -2,4 +2,5 @@ How to use:
 
 - Install xampp
 - put repo files in htdocs folder in xampp directory
+- import todo.sql to phpmyadmin
 - run apache server with xampp control panel
